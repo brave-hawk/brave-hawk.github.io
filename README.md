@@ -3,6 +3,8 @@
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
+## Temporarily private while I add content
+
 Welcome to my Salesforce blog, where I dive into the world of Salesforce to explore and discover interesting features, tools, and techniques. 
   
   I love trying out new ideas, experimenting with Apex, Flow, and other Salesforce technologies, and solving real-world challenges along the way. 
